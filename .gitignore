@@ -1,0 +1,36 @@
+# Dependency directories
+node_modules
+
+# Files and Directory
+## project folders
+.npm
+.iml
+.node_repl_history
+reports
+artifacts
+/shared-objects/docs/userAgent.txt
+
+# IntelliJ project files
+.idea
+out
+gen
+.DS_Store
+
+# Logs
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# UTAM artifacts
+page-objects/__utam__/compiledUTAM
